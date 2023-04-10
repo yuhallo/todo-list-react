@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "id": 1681062407698,
+      "taskName": "Learn JavaScript",
+      "description": "Read a 'JS Deep Dive'",
+      "complete": true
+    },
+    {
+      "id": 1681062439087,
+      "taskName": "Learn React",
+      "description": "Studying 'react-hooks'",
+      "complete": false
+    },
+    {
+      "id": 1681062525432,
+      "taskName": "Learn TypeScript",
+      "description": "View a lecture",
+      "complete": false
+    },
+    {
+      "id": 1681062566425,
+      "taskName": "Meditating",
+      "description": "Watching meditation videos on YouTube",
+      "complete": false
+    },
+    {
+      "id": 1681114730724,
+      "taskName": "Reviewing",
+      "description": "Organizing Handwriting Notes",
+      "complete": false
+    }
+  ]
+}
